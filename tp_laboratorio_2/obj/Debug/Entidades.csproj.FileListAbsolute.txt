@@ -1,0 +1,10 @@
+C:\Users\screw\Desktop\tp_laboratorio_2\tp_laboratorio_2\tp_laboratorio_2\bin\Debug\tp_laboratorio_2.exe.config
+C:\Users\screw\Desktop\tp_laboratorio_2\tp_laboratorio_2\tp_laboratorio_2\bin\Debug\tp_laboratorio_2.exe
+C:\Users\screw\Desktop\tp_laboratorio_2\tp_laboratorio_2\tp_laboratorio_2\bin\Debug\tp_laboratorio_2.pdb
+C:\Users\screw\Desktop\tp_laboratorio_2\tp_laboratorio_2\tp_laboratorio_2\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\screw\Desktop\tp_laboratorio_2\tp_laboratorio_2\tp_laboratorio_2\obj\Debug\tp_laboratorio_2.FormCalculadora.resources
+C:\Users\screw\Desktop\tp_laboratorio_2\tp_laboratorio_2\tp_laboratorio_2\obj\Debug\tp_laboratorio_2.Properties.Resources.resources
+C:\Users\screw\Desktop\tp_laboratorio_2\tp_laboratorio_2\tp_laboratorio_2\obj\Debug\Entidades.csproj.GenerateResource.cache
+C:\Users\screw\Desktop\tp_laboratorio_2\tp_laboratorio_2\tp_laboratorio_2\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\screw\Desktop\tp_laboratorio_2\tp_laboratorio_2\tp_laboratorio_2\obj\Debug\tp_laboratorio_2.exe
+C:\Users\screw\Desktop\tp_laboratorio_2\tp_laboratorio_2\tp_laboratorio_2\obj\Debug\tp_laboratorio_2.pdb
