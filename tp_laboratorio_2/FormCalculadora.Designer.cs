@@ -46,7 +46,7 @@
             this.txtNumero1.Location = new System.Drawing.Point(12, 64);
             this.txtNumero1.MinimumSize = new System.Drawing.Size(120, 50);
             this.txtNumero1.Name = "txtNumero1";
-            this.txtNumero1.Size = new System.Drawing.Size(150, 50);
+            this.txtNumero1.Size = new System.Drawing.Size(150, 47);
             this.txtNumero1.TabIndex = 0;
             // 
             // txtNumero2
@@ -55,7 +55,7 @@
             this.txtNumero2.Location = new System.Drawing.Point(346, 66);
             this.txtNumero2.MinimumSize = new System.Drawing.Size(120, 50);
             this.txtNumero2.Name = "txtNumero2";
-            this.txtNumero2.Size = new System.Drawing.Size(150, 50);
+            this.txtNumero2.Size = new System.Drawing.Size(150, 47);
             this.txtNumero2.TabIndex = 2;
             // 
             // label1
@@ -72,6 +72,11 @@
             // 
             this.comboBox1.Font = new System.Drawing.Font("Gadugi", 35F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Pixel);
             this.comboBox1.FormattingEnabled = true;
+            this.comboBox1.Items.AddRange(new object[] {
+            "+",
+            "-",
+            "*",
+            "/"});
             this.comboBox1.Location = new System.Drawing.Point(208, 64);
             this.comboBox1.Name = "comboBox1";
             this.comboBox1.Size = new System.Drawing.Size(100, 50);
