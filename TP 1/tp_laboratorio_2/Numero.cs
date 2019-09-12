@@ -38,7 +38,7 @@ namespace tp_laboratorio_2
             }
             return retValue;
         }
-        public string BinarioDecimal(string binario)
+        public static string BinarioDecimal(string binario)
         {
             string retStr = "Valor Invalido";
             if (!binario.Equals(null))
@@ -70,14 +70,20 @@ namespace tp_laboratorio_2
             }
             return retStr;
         }
-        public string DecimalBinario(string numero)
+        public static string DecimalBinario(string numero)
         {
-            return DecimalBinario(Double.Parse(numero));
+            string textValue = "Valor Invalido";
+            double numValue;
+            if (Double.TryParse(numero,out numValue))
+            {
+                textValue = DecimalBinario(numValue);
+            }
+            return textValue;
         }
-        public string DecimalBinario(double numero)
+        public static string DecimalBinario(double numero)
         {
             string ret = "Valor Invalido";
-            if (numero > 0)
+            if (numero >= 0)
             {
                 ret = Convert.ToString(Convert.ToInt32(numero), 2);
             }
