@@ -1,0 +1,11 @@
+C:\Users\screw\source\repos\TP_03_LabII\TP_03_LabII_.Excepciones\bin\Debug\TP_03_LabII_.Excepciones.dll
+C:\Users\screw\source\repos\TP_03_LabII\TP_03_LabII_.Excepciones\bin\Debug\TP_03_LabII_.Excepciones.pdb
+C:\Users\screw\source\repos\TP_03_LabII\TP_03_LabII_.Excepciones\obj\Debug\TP_03_LabII_.Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\screw\source\repos\TP_03_LabII\TP_03_LabII_.Excepciones\obj\Debug\TP_03_LabII_.Excepciones.dll
+C:\Users\screw\source\repos\TP_03_LabII\TP_03_LabII_.Excepciones\obj\Debug\TP_03_LabII_.Excepciones.pdb
+E:\LabII_TP3_Unfinished\TP_03_LabII_.Excepciones\bin\Debug\TP_03_LabII_.Excepciones.dll
+E:\LabII_TP3_Unfinished\TP_03_LabII_.Excepciones\bin\Debug\TP_03_LabII_.Excepciones.pdb
+E:\LabII_TP3_Unfinished\TP_03_LabII_.Excepciones\obj\Debug\TP_03_LabII_.Excepciones.csprojAssemblyReference.cache
+E:\LabII_TP3_Unfinished\TP_03_LabII_.Excepciones\obj\Debug\TP_03_LabII_.Excepciones.csproj.CoreCompileInputs.cache
+E:\LabII_TP3_Unfinished\TP_03_LabII_.Excepciones\obj\Debug\TP_03_LabII_.Excepciones.dll
+E:\LabII_TP3_Unfinished\TP_03_LabII_.Excepciones\obj\Debug\TP_03_LabII_.Excepciones.pdb

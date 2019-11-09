@@ -1,0 +1,9 @@
+C:\Users\screw\source\repos\TP_03_LabII\TP_03_LabII_.Entidades\bin\Debug\TP_03_LabII_.Entidades.dll
+C:\Users\screw\source\repos\TP_03_LabII\TP_03_LabII_.Entidades\bin\Debug\TP_03_LabII_.Entidades.pdb
+C:\Users\screw\source\repos\TP_03_LabII\TP_03_LabII_.Entidades\bin\Debug\TP_03_LabII_.Excepciones.dll
+C:\Users\screw\source\repos\TP_03_LabII\TP_03_LabII_.Entidades\bin\Debug\TP_03_LabII_.Excepciones.pdb
+C:\Users\screw\source\repos\TP_03_LabII\TP_03_LabII_.Entidades\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\screw\source\repos\TP_03_LabII\TP_03_LabII_.Entidades\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\screw\source\repos\TP_03_LabII\TP_03_LabII_.Entidades\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\screw\source\repos\TP_03_LabII\TP_03_LabII_.Entidades\obj\Debug\TP_03_LabII_.Entidades.dll
+C:\Users\screw\source\repos\TP_03_LabII\TP_03_LabII_.Entidades\obj\Debug\TP_03_LabII_.Entidades.pdb
