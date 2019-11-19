@@ -1,0 +1,10 @@
+C:\Users\screw\source\repos\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Forms\bin\Debug\LabII_TP04_.Forms.exe.config
+C:\Users\screw\source\repos\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Forms\bin\Debug\LabII_TP04_.Forms.exe
+C:\Users\screw\source\repos\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Forms\bin\Debug\LabII_TP04_.Forms.pdb
+C:\Users\screw\source\repos\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Forms\obj\Debug\LabII_TP04_.Forms.csprojAssemblyReference.cache
+C:\Users\screw\source\repos\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Forms\obj\Debug\LabII_TP04_.Forms.FrmPpal.resources
+C:\Users\screw\source\repos\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Forms\obj\Debug\LabII_TP04_.Forms.Properties.Resources.resources
+C:\Users\screw\source\repos\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Forms\obj\Debug\LabII_TP04_.Forms.csproj.GenerateResource.cache
+C:\Users\screw\source\repos\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Forms\obj\Debug\LabII_TP04_.Forms.csproj.CoreCompileInputs.cache
+C:\Users\screw\source\repos\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Forms\obj\Debug\LabII_TP04_.Forms.exe
+C:\Users\screw\source\repos\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Forms\obj\Debug\LabII_TP04_.Forms.pdb
