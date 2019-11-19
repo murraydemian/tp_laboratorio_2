@@ -1,0 +1,13 @@
+El metodo mocksiclidevida de paquete hara lo siguiente:
+      Cambiar el estado a ingresado
+      Lanzar un evento
+      Dormir el hilo (Esto no deberia aceptar al thread principal)
+      Cambiar el estado
+      Lanzar un evento
+      Dormir el hilo
+      Cambiar el estado
+      Lanzar un evento
+      
+El manejador del evento de cambio de estado esta en el formulario es paq_Cambioesta...etc.
+El manejador crea un nuevo hilo de ser necesario y se invoca a si mismo en el nuevo hilo.
+Este metodo manejador llama al actualizar lista.
