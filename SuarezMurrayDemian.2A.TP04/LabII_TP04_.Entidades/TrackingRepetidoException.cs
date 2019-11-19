@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LabII_TP04_.Excepciones
+namespace LabII_TP04_.Entidades
 {
     public class TrackingRepetidoException : Exception
     {

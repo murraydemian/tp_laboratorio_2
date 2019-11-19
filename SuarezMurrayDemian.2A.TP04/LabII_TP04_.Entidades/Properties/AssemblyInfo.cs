@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // La información general de un ensamblado se controla mediante el siguiente 
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
-[assembly: AssemblyTitle("LabII_TP04_.Excepciones")]
+[assembly: AssemblyTitle("LabII_TP04_.Entidades")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("LabII_TP04_.Excepciones")]
+[assembly: AssemblyProduct("LabII_TP04_.Entidades")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-[assembly: Guid("8b4e5a94-e3c4-43db-b938-3da3c25871dc")]
+[assembly: Guid("d2dd2117-76ab-404b-b0be-b72b400c0ed9")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //

@@ -1,5 +1,0 @@
-C:\Users\screw\source\repos\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Excepciones\bin\Debug\LabII_TP04_.Excepciones.dll
-C:\Users\screw\source\repos\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Excepciones\bin\Debug\LabII_TP04_.Excepciones.pdb
-C:\Users\screw\source\repos\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Excepciones\obj\Debug\LabII_TP04_.Excepciones.csproj.CoreCompileInputs.cache
-C:\Users\screw\source\repos\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Excepciones\obj\Debug\LabII_TP04_.Excepciones.dll
-C:\Users\screw\source\repos\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Excepciones\obj\Debug\LabII_TP04_.Excepciones.pdb
