@@ -1,0 +1,13 @@
+C:\Users\screw\Desktop\tp_laboratorio_2\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Forms\bin\Debug\LabII_TP04_.Forms.exe.config
+C:\Users\screw\Desktop\tp_laboratorio_2\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Forms\bin\Debug\LabII_TP04_.Forms.exe
+C:\Users\screw\Desktop\tp_laboratorio_2\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Forms\bin\Debug\LabII_TP04_.Forms.pdb
+C:\Users\screw\Desktop\tp_laboratorio_2\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Forms\bin\Debug\LabII_TP04_.Entidades.dll
+C:\Users\screw\Desktop\tp_laboratorio_2\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Forms\bin\Debug\LabII_TP04_.Entidades.pdb
+C:\Users\screw\Desktop\tp_laboratorio_2\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Forms\obj\Debug\LabII_TP04_.MainCorreo.csprojAssemblyReference.cache
+C:\Users\screw\Desktop\tp_laboratorio_2\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Forms\obj\Debug\LabII_TP04_.Forms.FrmPpal.resources
+C:\Users\screw\Desktop\tp_laboratorio_2\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Forms\obj\Debug\LabII_TP04_.Forms.Properties.Resources.resources
+C:\Users\screw\Desktop\tp_laboratorio_2\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Forms\obj\Debug\LabII_TP04_.MainCorreo.csproj.GenerateResource.cache
+C:\Users\screw\Desktop\tp_laboratorio_2\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Forms\obj\Debug\LabII_TP04_.MainCorreo.csproj.CoreCompileInputs.cache
+C:\Users\screw\Desktop\tp_laboratorio_2\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Forms\obj\Debug\LabII_TP04_.MainCorreo.csproj.CopyComplete
+C:\Users\screw\Desktop\tp_laboratorio_2\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Forms\obj\Debug\LabII_TP04_.Forms.exe
+C:\Users\screw\Desktop\tp_laboratorio_2\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Forms\obj\Debug\LabII_TP04_.Forms.pdb

@@ -61,12 +61,14 @@ namespace LabII_TP04_.Entidades
             this.trakingID = trakingID;
         }
 
-        public delegate void DelegadoEstado(Paquete source, EventArgs args);
+        public delegate void DelegadoEstado(object source, EventArgs args);
 
         public void MockCicloDeVida()
         {
             if (this.InformaEstado != null)
             {
+                this.estado = EEstado.Ingresado;
+                this.InformaEstado(this, EventArgs.Empty);
                 Thread.Sleep(4000);
                 this.Estado = EEstado.EnViaje;
                 this.InformaEstado(this, EventArgs.Empty);
@@ -87,12 +89,13 @@ namespace LabII_TP04_.Entidades
 
         public string MostrarDatos(IMostrar<Paquete> elemento)
         {
-            return "";
+            return string.Format("{0} para {1}", ((Paquete)elemento).TrakingID,
+                        ((Paquete)elemento).DireccionEntrega);
         }
 
         public static bool operator ==(Paquete p1, Paquete p2)
         {
-            return true;
+            return (p1.TrakingID == p2.TrakingID);
         }
         public static bool operator !=(Paquete p1, Paquete p2)
         {

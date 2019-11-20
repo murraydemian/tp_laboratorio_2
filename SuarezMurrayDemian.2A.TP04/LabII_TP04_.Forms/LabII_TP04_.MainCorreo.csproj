@@ -79,5 +79,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LabII_TP04_.Entidades\LabII_TP04_.Entidades.csproj">
+      <Project>{d2dd2117-76ab-404b-b0be-b72b400c0ed9}</Project>
+      <Name>LabII_TP04_.Entidades</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
