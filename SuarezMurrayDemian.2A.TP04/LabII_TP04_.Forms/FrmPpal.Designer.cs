@@ -185,7 +185,7 @@
             this.btnAgregar.Location = new System.Drawing.Point(202, 19);
             this.btnAgregar.Name = "btnAgregar";
             this.btnAgregar.Size = new System.Drawing.Size(109, 42);
-            this.btnAgregar.TabIndex = 3;            
+            this.btnAgregar.TabIndex = 3;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = true;
             this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
@@ -197,22 +197,21 @@
             this.mtxtTrackingID.Name = "mtxtTrackingID";
             this.mtxtTrackingID.Size = new System.Drawing.Size(190, 20);
             this.mtxtTrackingID.TabIndex = 1;
-            this.mtxtTrackingID.TextMaskFormat = System.Windows.Forms.MaskFormat.IncludeLiterals;
             // 
             // cmsListas
             // 
-            this.cmsListas.Enabled = false;
             this.cmsListas.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.mostrarToolStripMenuItem});
             this.cmsListas.Name = "cmsListas";
-            this.cmsListas.Size = new System.Drawing.Size(116, 26);
+            this.cmsListas.Size = new System.Drawing.Size(181, 48);
             // 
             // mostrarToolStripMenuItem
             // 
-            this.mostrarToolStripMenuItem.Enabled = false;
+            this.mostrarToolStripMenuItem.Enabled = true;
             this.mostrarToolStripMenuItem.Name = "mostrarToolStripMenuItem";
-            this.mostrarToolStripMenuItem.Size = new System.Drawing.Size(115, 22);
-            this.mostrarToolStripMenuItem.Text = "Mostrar";
+            this.mostrarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.mostrarToolStripMenuItem.Text = "Mostrar...";
+            this.mostrarToolStripMenuItem.Click += mostrarToolStripMenuItem_Click;
             // 
             // FrmPpal
             // 

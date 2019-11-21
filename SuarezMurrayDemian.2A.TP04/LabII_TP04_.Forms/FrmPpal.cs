@@ -18,14 +18,21 @@ namespace LabII_TP04_.Forms
         public FrmPpal()
         {
             InitializeComponent();
-            this.correo = new Correo();                        
+            this.correo = new Correo();
+            this.lstEstadoEntregado.MouseDown += delegate (object o, MouseEventArgs e)
+            {
+                if(e.Button == MouseButtons.Right && this.lstEstadoEntregado.SelectedIndex != -1)
+                {
+                    this.cmsListas.Show(Cursor.Position.X, Cursor.Position.Y);
+                }
+            };
         }
 
         private void btnAgregar_Click(object sender, EventArgs e)
         {
             try
             {
-                Paquete nuevoPaquete = new Paquete(this.mtxtTrackingID.Text, this.txtDireccion.Text);
+                Paquete nuevoPaquete = new Paquete(this.txtDireccion.Text, this.mtxtTrackingID.Text);
                 nuevoPaquete.InformaEstado += this.paq_InformaEstado;
                 this.correo += nuevoPaquete;
             }
@@ -81,15 +88,15 @@ namespace LabII_TP04_.Forms
             {
                 if(item.Estado == Paquete.EEstado.Ingresado)
                 {
-                    this.lstEstadoIngresado.Items.Add(item.ToString());
+                    this.lstEstadoIngresado.Items.Add(item);
                 }
                 else if(item.Estado == Paquete.EEstado.EnViaje)
                 {
-                    this.lstEstadoEnViaje.Items.Add(item.ToString());
+                    this.lstEstadoEnViaje.Items.Add(item);
                 }
                 else if(item.Estado == Paquete.EEstado.Entregado)
                 {
-                    this.lstEstadoEntregado.Items.Add(item.ToString());
+                    this.lstEstadoEntregado.Items.Add(item);
                 }
             }
         }
