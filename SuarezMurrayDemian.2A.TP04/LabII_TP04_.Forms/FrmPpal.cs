@@ -19,13 +19,7 @@ namespace LabII_TP04_.Forms
         {
             InitializeComponent();
             this.correo = new Correo();
-            this.lstEstadoEntregado.MouseDown += delegate (object o, MouseEventArgs e)
-            {
-                if(e.Button == MouseButtons.Right && this.lstEstadoEntregado.SelectedIndex != -1)
-                {
-                    this.cmsListas.Show(Cursor.Position.X, Cursor.Position.Y);
-                }
-            };
+            
         }
 
         private void btnAgregar_Click(object sender, EventArgs e)
@@ -56,6 +50,18 @@ namespace LabII_TP04_.Forms
             }
             else
             {
+                if(((Paquete)sender).Estado == Paquete.EEstado.Entregado)
+                {
+                    try
+                    {
+                        PaqueteDAO.Insertar((Paquete)sender);
+                    }
+                    catch(Exception ex)
+                    {
+                        MessageBox.Show("Ocurrio un error durante la carga de datos. El error" +
+                            " presenta el siguiente mensje:\n" + ex.Message);
+                    }
+                }
                 this.ActualizarEstados(); 
             }
         }
@@ -66,6 +72,8 @@ namespace LabII_TP04_.Forms
             {
                 this.rtbMostrar.Clear();
                 this.rtbMostrar.Text = elemento.MostrarDatos(elemento);
+                if(elemento is Correo)
+                    elemento.MostrarDatos(elemento).Guardar("paquetes_Correo");
             }            
         }
 

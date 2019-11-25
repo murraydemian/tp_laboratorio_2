@@ -95,6 +95,7 @@
             // 
             // lstEstadoEntregado
             // 
+            this.lstEstadoEntregado.ContextMenuStrip = this.cmsListas;
             this.lstEstadoEntregado.FormattingEnabled = true;
             this.lstEstadoEntregado.Location = new System.Drawing.Point(524, 44);
             this.lstEstadoEntregado.Name = "lstEstadoEntregado";

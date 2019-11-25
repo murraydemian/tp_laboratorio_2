@@ -9,3 +9,5 @@ C:\Users\screw\Desktop\tp_laboratorio_2\SuarezMurrayDemian.2A.TP04\LabII_TP04_.E
 C:\Users\screw\Desktop\tp_laboratorio_2\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Entidades\obj\Debug\LabII_TP04_.Entidades.csproj.CoreCompileInputs.cache
 C:\Users\screw\Desktop\tp_laboratorio_2\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Entidades\obj\Debug\LabII_TP04_.Entidades.dll
 C:\Users\screw\Desktop\tp_laboratorio_2\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Entidades\obj\Debug\LabII_TP04_.Entidades.pdb
+C:\Users\screw\Desktop\tp_laboratorio_2\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Entidades\obj\Debug\LabII_TP04_.Entidades.csprojAssemblyReference.cache
+C:\Users\screw\Desktop\tp_laboratorio_2\SuarezMurrayDemian.2A.TP04\LabII_TP04_.Entidades\bin\Debug\LabII_TP04_.Entidades.dll.config
