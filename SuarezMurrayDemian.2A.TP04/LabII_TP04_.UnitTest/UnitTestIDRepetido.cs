@@ -16,6 +16,7 @@ namespace LabII_TP04_.UnitTest
             Correo c1 = new Correo();
             c1 += p1;
             c1 += p2;
+            Assert.Fail();
         }
     }
 }
